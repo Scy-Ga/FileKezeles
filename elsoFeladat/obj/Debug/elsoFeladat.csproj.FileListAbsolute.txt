@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Munka\elsoFeladat\elsoFeladat\bin\Debug\elsoFeladat.exe.config
+C:\Users\user\Desktop\Munka\elsoFeladat\elsoFeladat\bin\Debug\elsoFeladat.exe
+C:\Users\user\Desktop\Munka\elsoFeladat\elsoFeladat\bin\Debug\elsoFeladat.pdb
+C:\Users\user\Desktop\Munka\elsoFeladat\elsoFeladat\obj\Debug\elsoFeladat.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Munka\elsoFeladat\elsoFeladat\obj\Debug\elsoFeladat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Munka\elsoFeladat\elsoFeladat\obj\Debug\elsoFeladat.exe
+C:\Users\user\Desktop\Munka\elsoFeladat\elsoFeladat\obj\Debug\elsoFeladat.pdb
+C:\Users\user\Desktop\Lead\elsoFeladat\elsoFeladat\bin\Debug\elsoFeladat.exe.config
+C:\Users\user\Desktop\Lead\elsoFeladat\elsoFeladat\bin\Debug\elsoFeladat.exe
+C:\Users\user\Desktop\Lead\elsoFeladat\elsoFeladat\bin\Debug\elsoFeladat.pdb
+C:\Users\user\Desktop\Lead\elsoFeladat\elsoFeladat\obj\Debug\elsoFeladat.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Lead\elsoFeladat\elsoFeladat\obj\Debug\elsoFeladat.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lead\elsoFeladat\elsoFeladat\obj\Debug\elsoFeladat.exe
+C:\Users\user\Desktop\Lead\elsoFeladat\elsoFeladat\obj\Debug\elsoFeladat.pdb

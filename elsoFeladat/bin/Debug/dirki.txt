@@ -1,0 +1,3 @@
+C:\nagyonkigyo\.vs
+C:\nagyonkigyo\nagyonkigyo
+C:\nagyonkigyo\packages

@@ -1,0 +1,3 @@
+C:\nagyonkigyo\.gitattributes
+C:\nagyonkigyo\.gitignore
+C:\nagyonkigyo\nagyonkigyo.sln
